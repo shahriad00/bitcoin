@@ -435,3 +435,18 @@
 .list ul li a:hover{
 	color:#FFA624;
 }
+
+
+/*reposive*/
+
+@media screen and (max-width: 411px) {
+	.about-bitcoin-left{
+		margin-bottom: 50px;;
+	}
+	.form-img .img-fluid{
+		margin-top: 40px;
+	}
+	.our-team .team-info2{
+		margin-bottom: 80px;
+	}
+  }
